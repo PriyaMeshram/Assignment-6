@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41504" started-at="2018-12-04T04:40:01Z" finished-at="2018-12-04T04:40:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41504" started-at="2018-12-04T04:40:01Z" finished-at="2018-12-04T04:40:42Z">
+      <class name="com.NewTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:com.NewTest@646d64ab]" name="open_browser" is-config="true" duration-ms="10222" started-at="2018-12-04T04:39:51Z" finished-at="2018-12-04T04:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="enter_appliacton_url()[pri:0, instance:com.NewTest@646d64ab]" name="enter_appliacton_url" is-config="true" duration-ms="7572" started-at="2018-12-04T04:40:01Z" finished-at="2018-12-04T04:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_appliacton_url -->
+        <test-method status="PASS" signature="maximize_page()[pri:0, instance:com.NewTest@646d64ab]" name="maximize_page" is-config="true" duration-ms="1172" started-at="2018-12-04T04:40:08Z" finished-at="2018-12-04T04:40:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize_page -->
+        <test-method status="PASS" signature="click_on_myaccount()[pri:1, instance:com.NewTest@646d64ab]" name="click_on_myaccount" duration-ms="3583" started-at="2018-12-04T04:40:10Z" finished-at="2018-12-04T04:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_myaccount -->
+        <test-method status="PASS" signature="login_with_details()[pri:2, instance:com.NewTest@646d64ab]" name="login_with_details" duration-ms="3765" started-at="2018-12-04T04:40:13Z" finished-at="2018-12-04T04:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_with_details -->
+        <test-method status="PASS" signature="click_mywishlist()[pri:3, instance:com.NewTest@646d64ab]" name="click_mywishlist" duration-ms="2946" started-at="2018-12-04T04:40:17Z" finished-at="2018-12-04T04:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_mywishlist -->
+        <test-method status="PASS" signature="click_addtocard()[pri:4, instance:com.NewTest@646d64ab]" name="click_addtocard" duration-ms="3526" started-at="2018-12-04T04:40:20Z" finished-at="2018-12-04T04:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_addtocard -->
+        <test-method status="PASS" signature="enter_shipping_information()[pri:5, instance:com.NewTest@646d64ab]" name="enter_shipping_information" duration-ms="8108" started-at="2018-12-04T04:40:23Z" finished-at="2018-12-04T04:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_shipping_information -->
+        <test-method status="PASS" signature="enter_biling_details()[pri:6, instance:com.NewTest@646d64ab]" name="enter_biling_details" duration-ms="2207" started-at="2018-12-04T04:40:32Z" finished-at="2018-12-04T04:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_biling_details -->
+        <test-method status="PASS" signature="cick_on_countinue_inshippingmethod()[pri:7, instance:com.NewTest@646d64ab]" name="cick_on_countinue_inshippingmethod" duration-ms="2136" started-at="2018-12-04T04:40:34Z" finished-at="2018-12-04T04:40:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cick_on_countinue_inshippingmethod -->
+        <test-method status="PASS" signature="enter_moneyorder()[pri:8, instance:com.NewTest@646d64ab]" name="enter_moneyorder" duration-ms="2238" started-at="2018-12-04T04:40:36Z" finished-at="2018-12-04T04:40:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_moneyorder -->
+        <test-method status="PASS" signature="click_on_placeorder()[pri:9, instance:com.NewTest@646d64ab]" name="click_on_placeorder" duration-ms="2136" started-at="2018-12-04T04:40:38Z" finished-at="2018-12-04T04:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_placeorder -->
+        <test-method status="PASS" signature="check_order_done()[pri:10, instance:com.NewTest@646d64ab]" name="check_order_done" duration-ms="2087" started-at="2018-12-04T04:40:40Z" finished-at="2018-12-04T04:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_order_done -->
+      </class> <!-- com.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
