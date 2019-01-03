@@ -18,6 +18,7 @@ public class NewTest {
 	public WebDriver driver;
   @Test(priority=1)
   public void click_on_myaccount() throws InterruptedException {
+	  System.out.println("Linked with GitHub");
 	  System.out.println("click on my account");
 	 driver.findElement(By.linkText("MY ACCOUNT")).click();
 	 Thread.sleep(2000);
